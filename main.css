@@ -15,6 +15,9 @@ nav{
     align-items: center;
     justify-content: space-between;
 }
+.Ajinkya{
+    width: 150px;
+}
 .logo{
     background-color:#25272C;
     padding: 10px;
@@ -60,7 +63,7 @@ background-image: url('Images/Large_02.png');
 background-size: cover;
 }
 .picture-3.piture {
-background-image: url('Images/03.png');
+background-image: url('Images/01.png');
 background-size: cover;
 background-position:center;
 }
