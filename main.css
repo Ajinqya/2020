@@ -55,30 +55,30 @@ font-weight: 300;
     
 }
 .picture-1.piture {
-background-image: url('Images/Large_01.png');
+background-image: url('Images/Onboarding 3.jpg');
 background-size: cover;
 }
 .picture-2.piture {
-background-image: url('Images/Large_02.png');
+background-image: url('Images/hard.jpg');
 background-size: cover;
 }
 .picture-3.piture {
-background-image: url('Images/01.png');
+background-image: url('Images/monk.jpg');
 background-size: cover;
 background-position:center;
 }
 .picture-4.piture {
-background-image: url('Images/04.png');
+background-image: url('Images/crystal.jpg');
 background-size: cover;
 background-position:center;
 }
 .picture-5.piture {
-background-image: url('Images/05.png');
+background-image: url('Images/vector.jpg');
 background-size: cover;
 background-position:center;
 }
 .picture-6.piture {
-background-image: url('Images/06.png');
+background-image: url('Images/love-nature.jpg');
 background-size: cover;
 }
 .services h1{
@@ -102,11 +102,11 @@ background-size: cover;
     margin-bottom: 4%;
 }
 .picture-7.piture {
-    background-image: url('Images/Large_02.png');
+    background-image: url('Images/swim.jpg');
     background-size: cover;
     }
     .picture-8.piture {
-    background-image: url('Images/04.png');
+    background-image: url('Images/fish.png');
     background-size: cover;
     background-position:center;
     }
